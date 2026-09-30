@@ -1,0 +1,9 @@
+=== STOCK PORTFOLIO SUMMARY ===
+Stock: NVDA | Quantity: 62 | Unit Price: $120.00 | Total Value: $7440.00
+Stock: AAPL | Quantity: 36 | Unit Price: $180.00 | Total Value: $6480.00
+Stock: TSLA | Quantity: 22 | Unit Price: $250.00 | Total Value: $5500.00
+Stock: MSFT | Quantity: 19 | Unit Price: $420.00 | Total Value: $7980.00
+Stock: AMZN | Quantity: 69 | Unit Price: $185.00 | Total Value: $12765.00
+Stock: GOOGL | Quantity: 31 | Unit Price: $175.00 | Total Value: $5425.00
+----------------------------------------
+Total Investment Value: $45590.00
